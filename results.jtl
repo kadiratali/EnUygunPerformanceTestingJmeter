@@ -1,0 +1,23 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1757243711358,3717,Extract Cloudflare Cookies,200,Cookies extracted successfully,Setup - Get Cookies 1-1,text,true,,0,0,1,1,null,0,0,0
+1757243722523,174,01_Homepage,200,OK,Flight Search Tests 1-1,text,true,,76577,796,1,1,https://www.enuygun.com/,165,0,35
+1757243728217,212,02_Flight_Search_Page,200,OK,Flight Search Tests 1-1,text,true,,83509,2435,1,1,https://www.enuygun.com/ucak-bileti/,80,0,0
+1757243728217,80,02_Flight_Search_Page-0,301,Moved Permanently,Flight Search Tests 1-1,,true,,778,1217,1,1,https://www.enuygun.com/ucak-bileti,80,0,0
+1757243728300,129,02_Flight_Search_Page-1,200,OK,Flight Search Tests 1-1,text,true,,82731,1218,1,1,https://www.enuygun.com/ucak-bileti/,123,0,0
+1757243734789,341,03_Search_IST_ESB,200,OK,Flight Search Tests 1-1,text,true,,18813,1297,1,1,https://www.enuygun.com/ucak-bileti/arama/istanbul-ankara-esenboga-havalimani-ista-esb/?gidis=2025-09-14&yetiskin=1,341,0,0
+1757243740997,102,01_Homepage,200,OK,Flight Search Tests 1-1,text,true,,76011,1725,1,1,https://www.enuygun.com/,96,0,0
+1757243748833,80,02_Flight_Search_Page,301,Moved Permanently,Flight Search Tests 1-1,,true,,778,1736,1,1,https://www.enuygun.com/ucak-bileti,80,0,0
+1757243748833,80,02_Flight_Search_Page-0,301,Moved Permanently,Flight Search Tests 1-1,,true,,778,1736,1,1,https://www.enuygun.com/ucak-bileti,80,0,0
+1757243756500,370,03_Search_IST_ESB,200,OK,Flight Search Tests 1-1,text,true,,18722,1816,1,1,https://www.enuygun.com/ucak-bileti/arama/istanbul-ankara-esenboga-havalimani-ista-esb/?gidis=2025-09-14&yetiskin=1,370,0,0
+1757243763778,129,01_Homepage,200,OK,Flight Search Tests 1-1,text,true,,75872,1725,1,1,https://www.enuygun.com/,102,0,0
+1757243769382,77,02_Flight_Search_Page,301,Moved Permanently,Flight Search Tests 1-1,,true,,778,1736,1,1,https://www.enuygun.com/ucak-bileti,77,0,0
+1757243769382,77,02_Flight_Search_Page-0,301,Moved Permanently,Flight Search Tests 1-1,,true,,778,1736,1,1,https://www.enuygun.com/ucak-bileti,77,0,0
+1757243776765,380,03_Search_IST_ESB,200,OK,Flight Search Tests 1-1,text,true,,18779,1816,1,1,https://www.enuygun.com/ucak-bileti/arama/istanbul-ankara-esenboga-havalimani-ista-esb/?gidis=2025-09-14&yetiskin=1,380,0,0
+1757243784791,142,01_Homepage,200,OK,Flight Search Tests 1-1,text,true,,75990,1747,1,1,https://www.enuygun.com/,137,0,48
+1757243790408,80,02_Flight_Search_Page,301,Moved Permanently,Flight Search Tests 1-1,,true,,778,1758,1,1,https://www.enuygun.com/ucak-bileti,80,0,0
+1757243790408,80,02_Flight_Search_Page-0,301,Moved Permanently,Flight Search Tests 1-1,,true,,778,1758,1,1,https://www.enuygun.com/ucak-bileti,80,0,0
+1757243797522,519,03_Search_IST_ESB,200,OK,Flight Search Tests 1-1,text,true,,18672,1838,1,1,https://www.enuygun.com/ucak-bileti/arama/istanbul-ankara-esenboga-havalimani-ista-esb/?gidis=2025-09-14&yetiskin=1,519,0,0
+1757243803119,109,01_Homepage,200,OK,Flight Search Tests 1-1,text,true,,76008,1747,1,1,https://www.enuygun.com/,101,0,0
+1757243810899,201,02_Flight_Search_Page,301,Moved Permanently,Flight Search Tests 1-1,,true,,779,1758,1,1,https://www.enuygun.com/ucak-bileti,201,0,0
+1757243810899,201,02_Flight_Search_Page-0,301,Moved Permanently,Flight Search Tests 1-1,,true,,779,1758,1,1,https://www.enuygun.com/ucak-bileti,201,0,0
+1757243817506,367,03_Search_IST_ESB,200,OK,Flight Search Tests 1-1,text,true,,18660,1838,1,1,https://www.enuygun.com/ucak-bileti/arama/istanbul-ankara-esenboga-havalimani-ista-esb/?gidis=2025-09-14&yetiskin=1,367,0,0
